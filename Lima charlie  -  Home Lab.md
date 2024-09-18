@@ -1,4 +1,7 @@
+# Limacharlie EDR HOME LAB
 
-objective
+## Objectives
+
+this lab we exlore how to deplu edr
 
 
