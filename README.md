@@ -2,6 +2,6 @@
 
 ## Objectives
 
-this lab we exlore how to deplu edr
+this lab is 
 
 
