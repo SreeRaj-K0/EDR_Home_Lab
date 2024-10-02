@@ -22,3 +22,12 @@
 ![LimaCharlie Configuration Step 1](images/lima2.png)
 ![LimaCharlie Configuration Step 2](images/lima3.png)
 ![LimaCharlie Configuration Step 3](images/lima4.png)
+
+
+
+
+# Setting Up Sliver Implant on Kali Linux and Deploying to Windows
+
+
+
+![Sliver set-up](images/implants-sliver.png)
