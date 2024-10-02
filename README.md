@@ -39,30 +39,32 @@
 
 
 ![sliver](images/py.png)
-![[sliver.png]]
-![[sliver2.png]]
+![sliver.png]
+![sliver2.png]
 
 
-### # we got the sliver session
+###  we got the sliver session
 
-![[sliver-session.png]]
+![sliver-session.png]]
 
 
-![[sliver-session-info.png]]
+![sliver-session-info.png]
 
 
 
 ### on Limacharlie 
 
-![[sliver-process.png]]
+![sliver-process.png]
 
-![[network.png]]![[timeline.png]]
+![network.png]
+
+![timeline.png]
 
 
 ## Generating Telemetry by Dumping `lsass.exe`
 
 
-![[lsaasdump.png]]
+![lsaasdump.png]
 
 
 
