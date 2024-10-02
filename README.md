@@ -9,5 +9,5 @@
 5. Create a detection rule in LimaCharlie to identify and alert on `lsass.exe` dumping activity.
 
 
-`![images](images/Limacharlie.png)`
+`![images](images/lima.png)`
 
