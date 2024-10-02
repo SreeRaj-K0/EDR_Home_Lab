@@ -9,5 +9,36 @@
 5. Create a detection rule in LimaCharlie to identify and alert on `lsass.exe` dumping activity.
 
 
-`![images](images/lima.png)`
+
+
+## Network Configuration
+
+- **Network:** 10.10.10.0/24
+- **Windows Enterprise Machine:** 10.10.10.155
+- **Kali Linux (Sliver Server):** 10.10.10.140
+
+
+
+
+
+## Installation and Configuration of LimaCharlie Sensor on Windows Enterprise
+
+
+
+![images](images/lima.png)
+
+
+
+
+![images](images/lima2.png)
+
+
+
+![images](images/lima3.png)
+
+
+
+
+![images](images/lima4.png)
+
 
