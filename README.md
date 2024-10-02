@@ -39,8 +39,8 @@
 
 
 ![sliver](images/py.png)
-![[sliver.png]]
-![[sliver2.png]]
+![sliver](images/sliver.png)
+![sliver](images/sliver2.png)
 
 
 ### # we got the sliver session
