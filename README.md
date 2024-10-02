@@ -1,3 +1,5 @@
+
+
 # Limacharlie EDR HOME LAB
 
 ## Objectives
@@ -8,37 +10,15 @@
 4. Dump `lsass.exe` memory from the compromised Windows machine for credential dumping.
 5. Create a detection rule in LimaCharlie to identify and alert on `lsass.exe` dumping activity.
 
-
-
-
 ## Network Configuration
 
 - **Network:** 10.10.10.0/24
 - **Windows Enterprise Machine:** 10.10.10.155
 - **Kali Linux (Sliver Server):** 10.10.10.140
 
-
-
-
-
 ## Installation and Configuration of LimaCharlie Sensor on Windows Enterprise
 
-
-
-![images](images/lima.png)
-
-
-
-
-![images](images/lima2.png)
-
-
-
-![images](images/lima3.png)
-
-
-
-
-![images](images/lima4.png)
-
-
+![LimaCharlie Installation](images/lima.png)
+![LimaCharlie Configuration Step 1](images/lima2.png)
+![LimaCharlie Configuration Step 2](images/lima3.png)
+![LimaCharlie Configuration Step 3](images/lima4.png)
