@@ -59,5 +59,4 @@ We’ve successfully detected the `lsass.exe` dumping with our detection rule. A
 
 ## Conclusion
 
-In this project, a LimaCharlie EDR environment was successfully set up, and a Sliver implant was deployed on a Windows machine. The intricacies of collecting telemetry data, particularly through memory dumping techniques, were learned, along with the development of effective detection rules for identifying credential dumping activities. This hands-on experience enhanced the understanding of endpoint detection and response, as well as the practical application of offensive security tools in a controlled lab setting. Overall, this project has deepened knowledge of both attack and defense mechanisms in cybersecurity.
-
+In this project, a LimaCharlie EDR environment was successfully set up, and a Sliver implant was deployed on a Windows machine. The intricacies of collecting telemetry data, particularly through memory dumping techniques, were learned, along with the creation of  detection rules for identifying credential dumping activities. This hands-on experience enhanced the understanding of endpoint detection and response, as well as the practical application of offensive security tools in a controlled lab setting.
