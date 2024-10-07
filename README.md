@@ -47,13 +47,13 @@
 
 ### Create Detection Rule to Detect Lsass Dumping
 
-![Detection Rule](images/dr\ rrrrule.png)
+![Detection Rule](images/dr-rule.png)
 ![Rule LSAAS](images/rule-lsaaa.png)
 
 Now we have a simple detection rule to identify credential dumping. Let’s test it again by generating telemetry through dumping `lsass.exe` once more.
 
 ![LSAAAS](images/LSAAAS.png)
-![Detect Sliver Rule](images/detectsliver\ rule.png)
+![Detect Sliver Rule](images/detect-sliver-rule.png)
 
 We’ve successfully detected the `lsass.exe` dumping with our detection rule. Additionally, LimaCharlie’s built-in detection rules also identified our C2 server, marking it as the Sliver Hacktool.
 
