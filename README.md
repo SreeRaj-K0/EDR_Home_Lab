@@ -1,5 +1,7 @@
 # LimaCharlie EDR HOME LAB
-![lima](images/lima.svg)
+
+
+![lima](images/new.svg)
 
 
 ## Objectives
